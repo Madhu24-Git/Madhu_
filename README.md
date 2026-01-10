@@ -1,2 +1,2 @@
-# Madhu_
-Sample repository
+# Madhumitha_Raveendran_Resume
+This repository contains my professional resume. 
